@@ -1,7 +1,11 @@
 aid: kindred-healthcare
-url: https://raw.githubusercontent.com/api-evangelist/kindred-healthcare/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/kindred-healthcare/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.kindred-healthcare.com
+description: >-
+  Kindred Hospitals, a nationwide network of specialty hospitals, provides long-term
+  acute care and specialized rehabilitation to medically complex patients.
