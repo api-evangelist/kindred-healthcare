@@ -8,7 +8,7 @@ description: >-
   facilities continuing as Kindred Hospital Rehabilitation Services. No
   public REST APIs or developer portal have been identified for the legacy
   Kindred Healthcare or its successor entities.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Acute Care
